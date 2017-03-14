@@ -13,11 +13,13 @@
 * Just Focus：25分钟的番茄工作法，结束强制锁屏休息
 * PDF Expert 2：阅读PDF的强力助手
 * [Spectacle](https://www.spectacleapp.com/)：窗口管理软件（免费）
+
 ## 实用工具
 * Spappy: 将截图钉在桌面
 * AppCleaner：彻底删除 Mac App
 * [Typetto](https://itunes.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12)：键盘控制。通过蓝牙连接，Mac的键盘控制iPad、iPhone的输入
 * [Resize Master](https://itunes.apple.com/cn/app/resize-master/id1025306797?mt=12)：免费压缩图片
+
 ## 写作工具
 * Ulyless：强大的写作工具
 * MacDown：Markdown写作必备，方便转换成PDF等格式

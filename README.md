@@ -24,5 +24,5 @@
 * Ulyless：强大的写作工具
 * MacDown：Markdown写作必备，方便转换成PDF等格式
 * [1Checker](http://www.1checker.com/): 英语拼写检查，避免尴尬错误
-## Something Coll
+## Something Cool
 * Fliqlo：翻盖时钟屏保，Mac的经典屏保

@@ -20,6 +20,7 @@
 * [Typetto](https://itunes.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12)：键盘控制。通过蓝牙连接，Mac的键盘控制iPad、iPhone的输入
 * [Resize Master](https://itunes.apple.com/cn/app/resize-master/id1025306797?mt=12)：免费压缩图片
 * [vanilla 官网下载](http://matthewpalmer.net/vanilla/): 精简 Mac 菜单栏应用图标，小巧轻量还免费，评测见 [Vanilla，精简 Mac 菜单栏应用图标，小巧轻量还免费丨App+1](https://sspai.com/post/39036)
+* [AirServer](http://www.airserver.com/)：将 iPhone 屏幕通过 AirPlay 投射到 Mac 的屏幕上
 
 ## 写作工具
 * Ulyless：强大的写作工具

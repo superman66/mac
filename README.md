@@ -13,6 +13,7 @@
 * Just Focus：25分钟的番茄工作法，结束强制锁屏休息
 * PDF Expert 2：阅读PDF的强力助手
 * [Spectacle](https://www.spectacleapp.com/)：窗口管理软件（免费）
+* [Sip](https://www.macupdate.com/app/mac/42337/sip): Color Picker for developers
 
 ## 实用工具
 * Spappy: 将截图钉在桌面

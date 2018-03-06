@@ -22,7 +22,7 @@
 * [Resize Master](https://itunes.apple.com/cn/app/resize-master/id1025306797?mt=12)：免费压缩图片
 * [vanilla 官网下载](http://matthewpalmer.net/vanilla/): 精简 Mac 菜单栏应用图标，小巧轻量还免费，评测见 [Vanilla，精简 Mac 菜单栏应用图标，小巧轻量还免费丨App+1](https://sspai.com/post/39036)
 * [AirServer](http://www.airserver.com/)：将 iPhone 屏幕通过 AirPlay 投射到 Mac 的屏幕上
-
+* [Mos](https://github.com/Caldis/Mos)：一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
 ## 写作工具
 * Ulyless：强大的写作工具
 * MacDown：Markdown写作必备，方便转换成PDF等格式

@@ -23,6 +23,7 @@
 * [vanilla 官网下载](http://matthewpalmer.net/vanilla/): 精简 Mac 菜单栏应用图标，小巧轻量还免费，评测见 [Vanilla，精简 Mac 菜单栏应用图标，小巧轻量还免费丨App+1](https://sspai.com/post/39036)
 * [AirServer](http://www.airserver.com/)：将 iPhone 屏幕通过 AirPlay 投射到 Mac 的屏幕上
 * [Mos](https://github.com/Caldis/Mos)：一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
+* [Lunar](https://lunarapp.site/): 轻松调节外接显示器的亮度
 ## 写作工具
 * Ulyless：强大的写作工具
 * MacDown：Markdown写作必备，方便转换成PDF等格式

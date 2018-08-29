@@ -13,6 +13,7 @@
 * Just Focus：25分钟的番茄工作法，结束强制锁屏休息
 * PDF Expert 2：阅读PDF的强力助手
 * [Spectacle](https://www.spectacleapp.com/)：窗口管理软件（免费）
+* [Magnet](http://xclient.info/s/magnet.html?t=afab22706d3b9a4be30601c7989eec7c9902b83d#versions): 窗口管理，拖动到屏幕边缘即可自动实现全屏、1/2屏、1/3屏
 * [Sip](https://www.macupdate.com/app/mac/42337/sip): Color Picker for developers
 * [SpaceLauncher](https://spacelauncherapp.com/): [以 macOS 空格键为核心创建你的热键阵营](https://www.waerfa.com/spacelauncher-review)
 ## 实用工具

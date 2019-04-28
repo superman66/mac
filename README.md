@@ -31,3 +31,4 @@
 * [1Checker](http://www.1checker.com/): 英语拼写检查，避免尴尬错误
 ## Something Cool
 * Fliqlo：翻盖时钟屏保，Mac的经典屏保
+* [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn): Mac 酷炫屏保。Screensaver inspired by Apple's Event on October 30, 2018

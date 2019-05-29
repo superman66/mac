@@ -26,6 +26,7 @@
 * [Mos](https://github.com/Caldis/Mos)：一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
 * [Lunar](https://lunarapp.site/): 轻松调节外接显示器的亮度
 * [PP鸭](http://ppduck.com/): 图片压缩神器
+* [omnidisksweeper](https://omnidisksweeper.en.softonic.com/mac): 磁盘文件扫描，发现Mac系统占用空间大的文件夹
 ## 写作工具
 * Ulyless：强大的写作工具
 * MacDown：Markdown写作必备，方便转换成PDF等格式

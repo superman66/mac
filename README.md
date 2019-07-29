@@ -21,7 +21,8 @@
 * [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步。
 * [trilium](https://github.com/zadam/trilium)： Build your personal knowledge base with Trilium Notes
 * Bear：高颜值的笔记软件。 
-* [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步
+* [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步.
+* [notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 ## 实用工具
 * Spappy: 将截图钉在桌面
 * AppCleaner：彻底删除 Mac App

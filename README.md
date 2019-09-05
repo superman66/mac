@@ -16,6 +16,7 @@
 * [Magnet](http://xclient.info/s/magnet.html?t=afab22706d3b9a4be30601c7989eec7c9902b83d#versions): 窗口管理，拖动到屏幕边缘即可自动实现全屏、1/2屏、1/3屏
 * [Sip](https://www.macupdate.com/app/mac/42337/sip): Color Picker for developers
 * [SpaceLauncher](https://spacelauncherapp.com/): [以 macOS 空格键为核心创建你的热键阵营](https://www.waerfa.com/spacelauncher-review)
+* [Shuttle](http://fitztrev.github.io/shuttle/)：免费的简易的SSH快捷菜单
 
 ## 笔记软件
 * [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步。

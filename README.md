@@ -37,6 +37,7 @@
 * [PP鸭](http://ppduck.com/): 图片压缩神器
 * [omnidisksweeper](https://omnidisksweeper.en.softonic.com/mac): 磁盘文件扫描，发现Mac系统占用空间大的文件夹
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传管理软件，可对接国内几个主流的图床。
+* [The Unarchiver](https://theunarchiver.com/) 免费好用的文件解压工具
 
 ## 写作工具
 * Ulyless：强大的写作工具

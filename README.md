@@ -24,7 +24,7 @@
 * Bear：高颜值的笔记软件。 
 * [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步.
 * [notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
-* [Typefo](https://typora.io/): 一款简洁的 markdown editor。简洁的 UI，良好的写作体验。 
+* [Typora](https://typora.io/): 一款简洁的 markdown editor。简洁的 UI，良好的写作体验。 
 ## 实用工具
 * Spappy: 将截图钉在桌面
 * AppCleaner：彻底删除 Mac App

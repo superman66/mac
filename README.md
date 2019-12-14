@@ -33,7 +33,7 @@
 * [vanilla 官网下载](http://matthewpalmer.net/vanilla/): 精简 Mac 菜单栏应用图标，小巧轻量还免费，评测见 [Vanilla，精简 Mac 菜单栏应用图标，小巧轻量还免费丨App+1](https://sspai.com/post/39036)
 * [AirServer](http://www.airserver.com/)：将 iPhone 屏幕通过 AirPlay 投射到 Mac 的屏幕上
 * [Mos](https://github.com/Caldis/Mos)：一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
-* [Lunar](https://lunarapp.site/): 轻松调节外接显示器的亮度
+* [Lunar](https://lunar.fyi/): 轻松调节外接显示器的亮度
 * [PP鸭](http://ppduck.com/): 图片压缩神器
 * [omnidisksweeper](https://omnidisksweeper.en.softonic.com/mac): 磁盘文件扫描，发现Mac系统占用空间大的文件夹
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传管理软件，可对接国内几个主流的图床。

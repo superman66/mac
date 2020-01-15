@@ -26,8 +26,7 @@
 * [notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [Typora](https://typora.io/): 一款简洁的 markdown editor。简洁的 UI，良好的写作体验。 
 ## 实用工具
-* [Snipaste](https://dl.snipaste.com/mac-beta-cn)：好用的截图工具，支持标注。还支持将截图贴在桌面 
-* Spappy: 将截图钉在桌面
+* [xnip](https://zh.xnipapp.com/): Mac 上方便好用免费的截图工具。支持截图标注、截图固定、滚动截图。还支持截图阴影，这点太赞了。
 * AppCleaner：彻底删除 Mac App
 * [Typetto](https://itunes.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12)：键盘控制。通过蓝牙连接，Mac的键盘控制iPad、iPhone的输入
 * [Resize Master](https://itunes.apple.com/cn/app/resize-master/id1025306797?mt=12)：免费压缩图片

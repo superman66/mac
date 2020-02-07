@@ -39,6 +39,7 @@
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传管理软件，可对接国内几个主流的图床。
 * [The Unarchiver](https://theunarchiver.com/) 免费好用的文件解压工具
 * [SwitchKey](https://github.com/itsuhane/SwitchKey): 可以根据当前 App 窗口自动切换指定的输入法。当需要在代码与中文输入软件之间切换时，特别好用。
+* [Kap](https://getkap.co/): Mac 免费轻量 GIF 录屏小工具。
 
 ## 写作工具
 * Ulyless：强大的写作工具

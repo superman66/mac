@@ -17,6 +17,7 @@
 * [Sip](https://www.macupdate.com/app/mac/42337/sip): Color Picker for developers
 * [SpaceLauncher](https://spacelauncherapp.com/): [以 macOS 空格键为核心创建你的热键阵营](https://www.waerfa.com/spacelauncher-review)
 * [Shuttle](http://fitztrev.github.io/shuttle/)：免费的简易的SSH快捷菜单
+* Sip：取色器
 
 ## 笔记软件
 * [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步。

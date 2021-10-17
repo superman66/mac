@@ -21,11 +21,6 @@
 * https://www.nuoshell.com/: nuoshell, Mac ssh 客户端工具
 
 ## 笔记软件
-* [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步。
-* [trilium](https://github.com/zadam/trilium)： Build your personal knowledge base with Trilium Notes
-* Bear：高颜值的笔记软件。 
-* [Quiver](https://happenapps.com/#quiver)：转为程序员打造的笔记软件，Mac售价68元。支持各平台同步.
-* [notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [Typora](https://typora.io/): 一款简洁的 markdown editor。简洁的 UI，良好的写作体验。 
 ## 实用工具
 * [xnip](https://zh.xnipapp.com/): Mac 上方便好用免费的截图工具。支持截图标注、截图固定、滚动截图。还支持截图阴影，这点太赞了。

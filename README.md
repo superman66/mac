@@ -44,6 +44,8 @@
 * [SwitchKey](https://github.com/itsuhane/SwitchKey): 可以根据当前 App 窗口自动切换指定的输入法。当需要在代码与中文输入软件之间切换时，特别好用。
 * [Kap](https://getkap.co/): Mac 免费轻量 GIF 录屏小工具。
 * [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me): A macOS system analyzer and cleaner。
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl)：控制外接显示器的屏幕亮度和声音。
+
 
 ## 写作工具
 * Ulyless：强大的写作工具

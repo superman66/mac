@@ -23,6 +23,7 @@
 ## 笔记软件
 * [Typora](https://typora.io/): 一款简洁的 markdown editor。简洁的 UI，良好的写作体验。 
 ## 实用工具
+* [Glim](https://github.com/NeoPanic/Glim)：免费开源的 macOS 文件查看器，可预览 Markdown、图表、PDF 和 JSON，支持基础文本编辑，提供 Apple Silicon 和 Intel 版本。
 * [xnip](https://zh.xnipapp.com/): Mac 上方便好用免费的截图工具。支持截图标注、截图固定、滚动截图。还支持截图阴影，这点太赞了。
 * AppCleaner：彻底删除 Mac App
 * [Typetto](https://itunes.apple.com/us/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12)：键盘控制。通过蓝牙连接，Mac的键盘控制iPad、iPhone的输入
